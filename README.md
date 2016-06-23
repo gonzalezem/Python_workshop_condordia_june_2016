@@ -1,4 +1,4 @@
 # Python workshop condordia june 2016
 Exploring metagenomics data with pandas
 
-<pre><code>***Click on the file : workshop_concordia_2016.ipynb***
+<h3><a target="_blank" href="https://github.com/gonzalezem/Python_workshop_condordia_june_2016/edit/master/workshop_concordia_2016.ipynb">Go to metagenomics workshop</a></h3>
